@@ -1,0 +1,36 @@
+{
+  "batchId": "RCV-4311-B7",
+  "generatedAt": "2026-11-07T06:00:00Z",
+  "hubs": [
+    {
+      "hubCode": "DEN",
+      "city": "Denver",
+      "region": "NORTH"
+    },
+    {
+      "hubCode": "MSP",
+      "city": "Minneapolis",
+      "region": "NORTH"
+    },
+    {
+      "hubCode": "ATL",
+      "city": "Atlanta",
+      "region": "SOUTH"
+    },
+    {
+      "hubCode": "DAL",
+      "city": "Dallas",
+      "region": "SOUTH"
+    },
+    {
+      "hubCode": "SEA",
+      "city": "Seattle",
+      "region": "WEST"
+    },
+    {
+      "hubCode": "SLC",
+      "city": "Salt Lake City",
+      "region": "WEST"
+    }
+  ]
+}

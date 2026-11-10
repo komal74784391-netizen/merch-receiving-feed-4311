@@ -1,0 +1,15 @@
+{
+  "batchId": "RCV-4311-B7",
+  "pageSize": 12,
+  "totalResults": 16,
+  "recordCountByHub": {
+    "DEN": 2,
+    "MSP": 3,
+    "ATL": 3,
+    "DAL": 2,
+    "SEA": 2,
+    "SLC": 4
+  },
+  "distinctItems": 5,
+  "reconcilesAt": "2026-11-07T06:10:00Z"
+}

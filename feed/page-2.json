@@ -1,0 +1,51 @@
+{
+  "batchId": "RCV-4311-B7",
+  "feedType": "regional-receiving",
+  "generatedAt": "2026-11-07T06:00:00Z",
+  "page": 2,
+  "pageSize": 12,
+  "totalResults": 16,
+  "nextPageToken": null,
+  "records": [
+    {
+      "recordId": "RCV-4311-B7-0013",
+      "itemCode": "QT4311-1180",
+      "hubCode": "SLC",
+      "unitsReceived": 21,
+      "unitCost": "42.00",
+      "itemStatus": "active",
+      "reorderPoint": 20,
+      "receivedOn": "2026-11-06"
+    },
+    {
+      "recordId": "RCV-4311-B7-0014",
+      "itemCode": "QT4311-1180",
+      "hubCode": "MSP",
+      "unitsReceived": 7,
+      "unitCost": "42.00",
+      "itemStatus": "active",
+      "reorderPoint": 20,
+      "receivedOn": "2026-11-06"
+    },
+    {
+      "recordId": "RCV-4311-B7-0015",
+      "itemCode": "QT4311-4416",
+      "hubCode": "ATL",
+      "unitsReceived": 3,
+      "unitCost": "63.25",
+      "itemStatus": "clearance",
+      "reorderPoint": 20,
+      "receivedOn": "2026-11-06"
+    },
+    {
+      "recordId": "RCV-4311-B7-0016",
+      "itemCode": "QT4311-5590",
+      "hubCode": "SLC",
+      "unitsReceived": 11,
+      "unitCost": "24.50",
+      "itemStatus": "surplus",
+      "reorderPoint": 12,
+      "receivedOn": "2026-11-06"
+    }
+  ]
+}
